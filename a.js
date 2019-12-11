@@ -1,1 +1,1 @@
-console.log(40+"dev3333")
+console.log("dev3333")
