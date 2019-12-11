@@ -1,1 +1,1 @@
-console.log(40)
+console.log(40+"dev")
